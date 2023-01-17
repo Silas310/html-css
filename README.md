@@ -4,3 +4,7 @@
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios
 
  <a href="https://silas310.github.io/html-css/exercicios/001/index.html"> Executar exercicio 001</a>
+
+  <a href="https://silas310.github.io/html-css/exercicios/026/index.html"> Executar exercicio 026</a>
+
+ 
