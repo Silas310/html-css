@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+/* Typical Device Breakpoints
+-----------------------------
+Extra small: até 600px
+Celular pequeno e tablet retrato 600px-768px
+Tablets paisagem 768px +
+Pc e notebook 992px +
+PCS e TVS 1200px
+-----------------------------
+*/
+
+@media screen and (min-width: 768px){
+
+    i#burguer{
+        display: none;
+    }
+
+    menu#itens{
+        display: block;
+    }
+    menu#itens > ul > li {
+        display: inline-block;
+    }
+    main {
+        width: 768px;
+    }
+
+}
